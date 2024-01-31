@@ -1,6 +1,4 @@
-# analise-de-dados-com-python
-Projeto desenvolvido no curso de Fundamentos de Big Data e Data Analytics com Python
-
+# Análise de Dados com Python
 ## Descrição da Atividade
 A atividade deverá ser realizada em um novo arquivo do Google Colab. Com o arquivo csv que você pesquisou, execute as seguintes atividades:
 
